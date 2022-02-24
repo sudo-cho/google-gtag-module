@@ -1,13 +1,13 @@
 {
-  "name": "@nuxtjs/google-gtag",
+  "name": "@sudocho/google-gtag",
   "version": "1.0.4",
   "description": "Google GTag for Nuxt.js",
+  "author": "sudocho",
   "license": "MIT",
   "contributors": [
     "Dominic Garms <djgarms@gmail.com>"
   ],
   "main": "lib/module.js",
-  "repository": "nuxt-community/google-gtag",
   "publishConfig": {
     "access": "public"
   },
@@ -36,5 +36,13 @@
     "request": "latest",
     "request-promise-native": "latest",
     "standard-version": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/nuxt-community/google-gtag/issues"
+  },
+  "homepage": "https://github.com/nuxt-community/google-gtag#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }

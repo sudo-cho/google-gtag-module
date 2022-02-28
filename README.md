@@ -10,6 +10,12 @@
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
+
+# Fork
+
+This fork is a WIP, you may encounter issues. Don't use it in production in your projects.
+
+
 # Attention
 This project is looking for maintainers. Please see [RFC](https://github.com/nuxt-community/gtm-module/issues/82) for future of module.
 
